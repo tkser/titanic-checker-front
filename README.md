@@ -16,5 +16,9 @@ yarn install
 yarn build
 ```
 
+#### Cloudflare Pages Environment Variables
+- `NODE_VERSION`: `19.8.1`
+- `YARN_VERSION`: `1.22.19`
+
 ## License
 The code parts of this project are licensed under the [MIT License](https://github.com/tkser/titanic-checker-front/blob/main/LICENSE).
