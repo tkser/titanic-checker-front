@@ -1,5 +1,7 @@
 # titanic-checker-front
 
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m794943801-c70a7efdfff52ac08cf9549b)
+
 This is a web-front application of a tool for measuring the benefits of machine learning predictions using the Titanic dataset. Built with Vite+React. <br />
 It is assumed to be used with [tkser/titanic-checker-api](https://github.com/tkser/titanic-checker-api).
 
