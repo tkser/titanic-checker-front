@@ -19,7 +19,7 @@ yarn build
 ```
 
 #### Cloudflare Pages Environment Variables
-- `NODE_VERSION`: `19.8.1`
+- `NODE_VERSION`: `19.8.0`
 - `YARN_VERSION`: `1.22.19`
 
 ## License
